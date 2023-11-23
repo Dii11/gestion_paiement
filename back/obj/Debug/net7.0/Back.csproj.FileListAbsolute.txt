@@ -1,0 +1,7 @@
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.csproj.AssemblyReference.cache
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.AssemblyInfoInputs.cache
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.AssemblyInfo.cs
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.csproj.CoreCompileInputs.cache
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cs
+D:\ENI L2 GB\Stage\back\obj\Debug\net7.0\Back.MvcApplicationPartsAssemblyInfo.cache

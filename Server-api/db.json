@@ -1,0 +1,221 @@
+{
+  "salaries": [
+    {
+      "nomSalarie": "Mino",
+      "dateDebut": "2023-08-06",
+      "email": "mino@gmail.com",
+      "Banque": "dfbf",
+      "Caisse": "fgbgf",
+      "numero": "034780867",
+      "idPoste": 3,
+      "idDeclaration": [
+        2
+      ],
+      "idIndemnite": [
+        3
+      ],
+      "qualification": "heure",
+      "salaire": "2000",
+      "idContrat": 6,
+      "adresse": "Antananarivo",
+      "id": 2
+    },
+    {
+      "nomSalarie": "Feno",
+      "dateDebut": "2023-08-19",
+      "idPoste": 2,
+      "email": "di@gmail.com",
+      "numero": "0346789003",
+      "adresse": "Antsahakely-Antsahamasina",
+      "idIndemnite": [
+        2,
+        3
+      ],
+      "idDeclaration": [
+        1
+      ],
+      "qualification": "mois",
+      "salaire": "3000000",
+      "idContrat": 6,
+      "Banque": "bfv-0987477820",
+      "caisse": "gfbf",
+      "id": 3
+    },
+    {
+      "nomSalarie": "Liana",
+      "dateDebut": "2023-08-05",
+      "idPoste": 2,
+      "email": "liana@gmail.com",
+      "numero": "034234567",
+      "adresse": "Ankoraotra",
+      "idIndemnite": [
+        3
+      ],
+      "idDeclaration": [
+        2
+      ],
+      "qualification": "mois",
+      "salaire": "200000",
+      "idContrat": 7,
+      "Banque": "dfbg",
+      "caisse": "gfngn",
+      "id": 4
+    },
+    {
+      "nomSalarie": "Alain",
+      "dateDebut": "2023-08-21",
+      "idPoste": 3,
+      "email": "alain@gmail.com",
+      "numero": "0325678543",
+      "adresse": "Tana",
+      "idIndemnite": [
+        3
+      ],
+      "idDeclaration": [
+        2
+      ],
+      "qualification": "heure",
+      "salaire": "3000",
+      "idContrat": 7,
+      "Banque": "dfbf",
+      "caisse": "fgbngn",
+      "id": 5
+    },
+    {
+      "nomSalarie": "Rivo",
+      "dateDebut": "2023-08-19",
+      "idPoste": 3,
+      "email": "rivo@gmail.com",
+      "numero": "0342315628",
+      "adresse": "Ambohibary",
+      "idIndemnite": [
+        3
+      ],
+      "idDeclaration": [
+        2
+      ],
+      "qualification": "mois",
+      "salaire": "100000",
+      "idContrat": 6,
+      "Banque": "dfvbfg",
+      "caisse": "fgnhgn",
+      "id": 6
+    },
+    {
+      "nomSalarie": "dfb",
+      "dateDebut": "2023-08-05",
+      "idPoste": 2,
+      "email": "fgb",
+      "numero": "gb",
+      "adresse": "fgb",
+      "idIndemnite": [
+        2
+      ],
+      "idDeclaration": [
+        2
+      ],
+      "qualification": "mois",
+      "salaire": "fgb",
+      "idContrat": 6,
+      "Banque": "fgb",
+      "caisse": "fgb",
+      "id": 7
+    }
+  ],
+  "paie": [
+    {
+      "idSalarie": 3,
+      "periodeAPayer": "2023-12",
+      "datePaiement": "2023-08-26",
+      "montantAPayer": 3200000,
+      "id": 4
+    },
+    {
+      "idSalarie": 3,
+      "periodeAPayer": "2023-08",
+      "datePaiement": "2023-08-18",
+      "montantAPayer": 3200000,
+      "id": 8
+    },
+    {
+      "idSalarie": 2,
+      "periodeAPayer": "2023-08",
+      "datePaiement": "2023-08-30",
+      "montantAPayer": 203600,
+      "id": 12
+    },
+    {
+      "idSalarie": 2,
+      "periodeAPayer": "2023-12",
+      "datePaiement": "2023-08-18",
+      "montantAPayer": 223600,
+      "id": 13
+    }
+  ],
+  "entreprise": [
+    {
+      "nomEntreprise": "Anta",
+      "siege": "Ambatomirahavavy",
+      "statut": "légal",
+      "description": "entreprise informatique pour la rénovation de la technologie",
+      "id": "qoSFyr9"
+    }
+  ],
+  "profit": [
+    {
+      "nomIndemnite": "makalioka",
+      "montant": "200000",
+      "id": 2
+    },
+    {
+      "nomIndemnite": "logement",
+      "montant": "200000",
+      "id": 3
+    }
+  ],
+  "obli": [
+    {
+      "nomDeclaration": "makalioka",
+      "montant": "200000",
+      "id": 1
+    },
+    {
+      "nomDeclaration": "CNAPS",
+      "montant": "0.2",
+      "id": 2
+    }
+  ],
+  "poste": [
+    {
+      "nomPoste": "sdv",
+      "id": 1
+    },
+    {
+      "nomPoste": "gérant",
+      "id": 2
+    },
+    {
+      "nomPoste": "commerçant",
+      "id": 3
+    }
+  ],
+  "temps": [
+    {
+      "jour": "2",
+      "debut": "2",
+      "fin": "2",
+      "jConge": "2",
+      "id": 1
+    }
+  ],
+  "contrat": [
+    {
+      "nomcontrat": "CDI",
+      "id": 6
+    },
+    {
+      "nomcontrat": "CDD",
+      "id": 7
+    }
+  ]
+}
